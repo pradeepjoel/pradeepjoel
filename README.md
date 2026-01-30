@@ -15,3 +15,22 @@
     <img src="https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail" />
   </a>
 </p>
+
+---
+
+### 🧰 Tech Stack
+
+**Data & Analytics**  
+`SQL` · `Python` · `Pandas` · `EDA` · `Feature Engineering`
+
+**Data Engineering**  
+`ETL Pipelines` · `Data Modeling` · `Web Scraping` · `APIs`
+
+**Big Data / BI**  
+`Spark (basics)` · `Power BI` · `Tableau`
+
+**AI / ML Foundations**  
+`Scikit-learn` · `Regression` · `Classification` · `ML Pipelines`
+
+**Cloud & Tools**  
+`Git` · `GitHub` · `Docker (basics)` · `Databricks CE` · `AWS S3`
