@@ -52,3 +52,7 @@
 - Performed data cleaning, SQL analysis, and dashboarding  
 - Supported business decisions with actionable insights  
 
+<p align="center">
+  <img src="assets/pipeline.svg" alt="Animated Data Pipeline" width="900" />
+</p>
+
