@@ -5,13 +5,13 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/pradeepjoel/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" />
   </a>
-  <a href="https://YOURPORTFOLIO.com">
+  <a href="https://pradeepjoel.com">
     <img src="https://img.shields.io/badge/Portfolio-Visit-black?style=flat&logo=vercel" />
   </a>
-  <a href="mailto:YOUREMAIL@gmail.com">
+  <a href="mailto:pradeepjoelx@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail" />
   </a>
 </p>
