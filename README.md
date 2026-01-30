@@ -18,50 +18,37 @@
 
 ---
 
-<hr/>
 
-<h3 align="center">🧰 Tech Stack</h3>
+---
 
-<p align="center">
-<b>Data & Analytics</b><br/>
-<code>SQL</code> · <code>Python</code> · <code>Pandas</code> · <code>EDA</code> · <code>Feature Engineering</code>
-</p>
+### 🧰 Tech Stack
 
-<p align="center">
-<b>Data Engineering</b><br/>
-<code>ETL Pipelines</code> · <code>Data Modeling</code> · <code>Web Scraping</code> · <code>APIs</code>
-</p>
+**Data & Analytics**  
+`SQL` · `Python` · `Pandas` · `EDA` · `Feature Engineering`
 
-<p align="center">
-<b>Big Data / BI</b><br/>
-<code>Spark (basics)</code> · <code>Power BI</code> · <code>Tableau</code>
-</p>
+**Data Engineering**  
+`ETL Pipelines` · `Data Modeling` · `Web Scraping` · `APIs`
 
-<p align="center">
-<b>AI / ML Foundations</b><br/>
-<code>Scikit-learn</code> · <code>Regression</code> · <code>Classification</code> · <code>ML Pipelines</code>
-</p>
+**Big Data / BI**  
+`Spark (basics)` · `Power BI` · `Tableau`
 
-<p align="center">
-<b>Cloud & Tools</b><br/>
-<code>Git</code> · <code>GitHub</code> · <code>Docker (basics)</code> · <code>Databricks CE</code> · <code>AWS S3</code>
-</p>
+**AI / ML Foundations**  
+`Scikit-learn` · `Regression` · `Classification` · `ML Pipelines`
 
-<hr/>
+**Cloud & Tools**  
+`Git` · `GitHub` · `Docker (basics)` · `Databricks CE` · `AWS S3`
 
-<h3 align="center">💼 Experience</h3>
+---
 
-<p align="center">
-<b>Data Analyst</b> — <i>Comcast / Media & AdTech</i><br/>
-Analyzed ad-delivery data to validate correct airing schedules<br/>
-Identified discrepancies impacting revenue and reporting accuracy<br/>
-Collaborated with operations and business stakeholders
-</p>
+### 💼 Experience
 
-<p align="center">
-<b>Junior Data Analyst</b> — <i>Event & Entertainment Analytics</i><br/>
-Built analytical reports for large-scale electronic music events<br/>
-Performed data cleaning, SQL analysis, and dashboarding<br/>
-Delivered actionable insights for business decisions
-</p>
+**Data Analyst** — *Comcast / Media & AdTech*  
+- Analyzed ad-delivery data to validate correct airing schedules  
+- Identified discrepancies impacting revenue and reporting accuracy  
+- Worked closely with operations and business stakeholders  
+
+**Junior Data Analyst** — *Event & Entertainment Analytics*  
+- Built analytical reports for large-scale electronic music events  
+- Performed data cleaning, SQL analysis, and dashboarding  
+- Supported business decisions with actionable insights  
 
