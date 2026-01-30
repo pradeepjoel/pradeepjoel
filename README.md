@@ -57,8 +57,4 @@
 </p>
 
 
-<div align="center">
-  <img src="assets/neon-tunnel.svg" width="900" alt="Neon tunnel animation" />
-</div>
-
 
