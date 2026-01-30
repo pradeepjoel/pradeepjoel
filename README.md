@@ -1,16 +1,25 @@
-## Hi there 👋
+<h2 align="center">⚡ Data Engineer · AI Builder · Analytics ⚡</h2>
 
-<!--
-**pradeepjoel/pradeepjoel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?
+  font=JetBrains+Mono
+  &size=18
+  &pause=1000
+  &color=00FF9C
+  &center=true
+  &vCenter=true
+  &width=600
+  &lines=Data+Engineering;AI+Pipelines;SQL+%7C+Python+%7C+Spark;Analytics+to+AI">
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin">
+  </a>
+  <a href="https://YOURPORTFOLIO.com">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-black?style=flat&logo=vercel">
+  </a>
+  <a href="mailto:YOUREMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail">
+  </a>
+</p>
