@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/pradeepjoel/">
+  <a href="https://www.linkedin.com/in/pradeepjoel/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" />
   </a>
   <a href="https://www.pradeepjoel.com">
