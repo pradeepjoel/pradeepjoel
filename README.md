@@ -56,3 +56,9 @@
   <img src="assets/pipeline.svg" alt="Animated Data Pipeline" width="900" />
 </p>
 
+
+<div align="center">
+  <img src="assets/neon-tunnel.svg" width="900" alt="Neon tunnel animation" />
+</div>
+
+
