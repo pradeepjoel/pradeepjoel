@@ -34,3 +34,17 @@
 
 **Cloud & Tools**  
 `Git` · `GitHub` · `Docker (basics)` · `Databricks CE` · `AWS S3`
+
+---
+
+### 💼 Experience
+
+**Data Analyst** — *Comcast / Media & AdTech*  
+- Analyzed ad-delivery data to validate correct airing schedules  
+- Identified discrepancies impacting revenue and reporting accuracy  
+- Worked closely with operations and business stakeholders  
+
+**Junior Data Analyst** — *Event & Entertainment Analytics*  
+- Built analytical reports for large-scale electronic music events  
+- Performed data cleaning, SQL analysis, and dashboarding  
+- Supported business decisions with actionable insights  
