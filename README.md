@@ -8,7 +8,7 @@
   <a href="https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/pradeepjoel/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" />
   </a>
-  <a href="https://pradeepjoel.com">
+  <a href="https://www.pradeepjoel.com">
     <img src="https://img.shields.io/badge/Portfolio-Visit-black?style=flat&logo=vercel" />
   </a>
   <a href="mailto:pradeepjoelx@gmail.com">
